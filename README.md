@@ -1,9 +1,3 @@
-# project-2-csci720_soodiyeramperayani
-project-2-csci720_soodiyeramperayani created by GitHub Classroom
-
-Names:
-Adhiraj Sood, Shweta Iyer, Sidhartha Amperyani
-
 Kindly run these in the same order.
 
 1. To perform analysis on graph and compute the Cohen's kappa interannotator, run the pldl.py file
